@@ -1,14 +1,24 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
 body {
   background-color: lightblue;
 }
 
 h1 {
+  margin-left:20px;
   color: violet;
-  text-align: center;
-  font-size: 80px;
+  text-align: left;
+  font-size: 35px;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+div {
+  width: 100%;
+  background-color: blue;
+  
 }
