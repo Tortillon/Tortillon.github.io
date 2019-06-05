@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
-  color: white;
+  color: violet;
   text-align: center;
+  font-size: 80px;
 }
 
 p {
