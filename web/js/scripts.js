@@ -11,12 +11,12 @@
 	/* Preloader */
 	$(window).on('load', function() {
 
-		var preloaderFadeOutTime = 0;
+		var preloaderFadeOutTime = 500;
 		function hidePreloader() {
 			var preloader = $('.spinner-wrapper');
 			setTimeout(function() {
 				preloader.fadeOut(preloaderFadeOutTime);
-			}, 0);
+			}, 500);
 		}
 
         var filterValue = '.naj';
