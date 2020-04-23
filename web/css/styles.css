@@ -14,8 +14,8 @@ Table Of Contents:
 05. Intro
 06. Description
 07. Services
-08. WIĘCEJ 1
-09. WIĘCEJ 2
+08. Details 1
+09. Details 2
 10. Testimonials
 11. Call Me
 12. Projects
@@ -377,9 +377,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid #7D8BF5;
+	border: 0.125rem solid #810a54;
 	border-radius: 0.25rem;
-	background-color: #7D8BF5;
+	background-color: #810a54;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -874,7 +874,7 @@ input[type='checkbox'] {
 	position: absolute;
 	width: 6rem;
 	height: 6rem;
-	background: url('../images/hexagon-green.svg') center center no-repeat;
+	background: url('../images/CircleVio.svg') center center no-repeat;
 	background-size: 6rem 6rem;
 }
 
@@ -971,7 +971,7 @@ input[type='checkbox'] {
 
 
 /*************************/
-/*     08. WIĘCEJ 1     */
+/*     08. Details 1     */
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
@@ -1053,7 +1053,7 @@ input[type='checkbox'] {
 
 
 /*************************/
-/*     09. WIĘCEJ 2     */
+/*     09. Details 2     */
 /*************************/
 .tabs .tabs-container {
 	max-width: 90%;
@@ -1548,13 +1548,13 @@ input[type='checkbox'] {
 	left: 0;
 	width: 1.75rem;
 	height: 1.75rem;
-	background: url('../images/hexagon-green.svg') center center no-repeat;
+	background: url('../images/CircleVio.svg') center center no-repeat;
 	background-size: 1.75rem 1.75rem;
 	transition: all 0.2s ease;
 }
 
 .basic-2 .fa-stack:hover .hexagon {
-	background: url('../images/hexagon-white.svg') center center no-repeat;
+	background: url('../images/ .svg') center center no-repeat;
 	background-size: 1.75rem 1.75rem;
 }
 
@@ -1689,13 +1689,13 @@ input[type='checkbox'] {
 	position: absolute;
 	width: 3.25rem;
 	height: 3.25rem;
-	background: url('../images/hexagon-green.svg') center center no-repeat;
+	background: url('../images/CircleVio.svg') center center no-repeat;
 	background-size: 3.25rem 3.25rem;
 	transition: all 0.2s ease;
 }
 
 .form-2 .fa-stack:hover .hexagon {
-	background: url('../images/hexagon-white.svg') center center no-repeat;
+	background: url('../images/ .svg') center center no-repeat;
 	background-size: 3.25rem 3.25rem;
 }
 
@@ -1933,14 +1933,14 @@ a:hover.back-to-top {
 	/* end of header */
 
 
-	/* WIĘCEJ 1 */
+	/* Details 1 */
 	.accordion .accordion-container {
 		max-width: 70%;
 	}
-	/* end of WIĘCEJ 1 */
+	/* end of details 1 */
 
 
-	/* WIĘCEJ 2 */
+	/* Details 2 */
 	.tabs .tabs-container {
 		max-width: 70%;
 	}
@@ -1954,7 +1954,7 @@ a:hover.back-to-top {
 	.tabs #tab-2 .list-unstyled.first {
 		margin-right: 2rem;
 	}
-	/* end of WIĘCEJ 2 */
+	/* end of details 2 */
 
 
 	/* Testimonials */
@@ -2049,13 +2049,13 @@ a:hover.back-to-top {
 		width: 1.625rem;
 		height: 1.625rem;
 		position: absolute;
-		background: url('../images/CircleMag.svg') center center no-repeat;
+		background: url('../images/CircleVio.svg') center center no-repeat;
 		background-size: 1.625rem 1.625rem;
 		transition: all 0.2s ease;
 	}
 
 	.navbar-custom .fa-stack:hover .hexagon {
-		background: url('../images/hexagon-white.svg') center center no-repeat;
+		background: url('../images/ .svg') center center no-repeat;
 		background-size: 1.625rem 1.625rem;
 	}
 	
@@ -2124,7 +2124,7 @@ a:hover.back-to-top {
 	/* end of services */
 
 
-	/* WIĘCEJ 1 */
+	/* Details 1 */
 	.accordion {
 		height: 34.625rem;
 	}
@@ -2151,10 +2151,10 @@ a:hover.back-to-top {
 	.accordion .accordion-title {
 		width: 85%;
 	}
-	/* end of WIĘCEJ 1 */
+	/* end of details 1 */
 
 
-	/* WIĘCEJ 2 */
+	/* Details 2 */
 	.tabs {
 		height: 36.125rem;
 	}
@@ -2182,7 +2182,7 @@ a:hover.back-to-top {
 	.tabs .nav-tabs {
 		justify-content: flex-start;
 	}
-	/* end of WIĘCEJ 2 */
+	/* end of details 2 */
 
 
 	/* Call Me */
@@ -2322,15 +2322,15 @@ a:hover.back-to-top {
 	/* end of services */
 
 
-	/* WIĘCEJ 1 */
+	/* Details 1 */
 	.accordion .accordion-container {
 		max-width: 28rem;
 		margin-left: 5rem;
 	}
-	/* end of WIĘCEJ 1 */
+	/* end of details 1 */
 
 
-	/* WIĘCEJ 2 */
+	/* Details 2 */
 	.tabs .tabs-container {
 		max-width: 28rem;
 		margin-right: 5rem;
@@ -2340,7 +2340,7 @@ a:hover.back-to-top {
 	.tabs #tab-2 .media-wrapper.first {
 		margin-right: 2rem;
 	}
-	/* end of WIĘCEJ 2 */
+	/* end of details 2 */
 
 
 	/* Call Me */
