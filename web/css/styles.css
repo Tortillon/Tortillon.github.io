@@ -14,8 +14,8 @@ Table Of Contents:
 05. Intro
 06. Description
 07. Services
-08. Details 1
-09. Details 2
+08. WIĘCEJ 1
+09. WIĘCEJ 2
 10. Testimonials
 11. Call Me
 12. Projects
@@ -971,7 +971,7 @@ input[type='checkbox'] {
 
 
 /*************************/
-/*     08. Details 1     */
+/*     08. WIĘCEJ 1     */
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
@@ -1053,7 +1053,7 @@ input[type='checkbox'] {
 
 
 /*************************/
-/*     09. Details 2     */
+/*     09. WIĘCEJ 2     */
 /*************************/
 .tabs .tabs-container {
 	max-width: 90%;
@@ -1933,14 +1933,14 @@ a:hover.back-to-top {
 	/* end of header */
 
 
-	/* Details 1 */
+	/* WIĘCEJ 1 */
 	.accordion .accordion-container {
 		max-width: 70%;
 	}
-	/* end of details 1 */
+	/* end of WIĘCEJ 1 */
 
 
-	/* Details 2 */
+	/* WIĘCEJ 2 */
 	.tabs .tabs-container {
 		max-width: 70%;
 	}
@@ -1954,7 +1954,7 @@ a:hover.back-to-top {
 	.tabs #tab-2 .list-unstyled.first {
 		margin-right: 2rem;
 	}
-	/* end of details 2 */
+	/* end of WIĘCEJ 2 */
 
 
 	/* Testimonials */
@@ -2049,7 +2049,7 @@ a:hover.back-to-top {
 		width: 1.625rem;
 		height: 1.625rem;
 		position: absolute;
-		background: url('../images/hexagon-green.svg') center center no-repeat;
+		background: url('../images/CircleMag.svg') center center no-repeat;
 		background-size: 1.625rem 1.625rem;
 		transition: all 0.2s ease;
 	}
@@ -2124,7 +2124,7 @@ a:hover.back-to-top {
 	/* end of services */
 
 
-	/* Details 1 */
+	/* WIĘCEJ 1 */
 	.accordion {
 		height: 34.625rem;
 	}
@@ -2151,10 +2151,10 @@ a:hover.back-to-top {
 	.accordion .accordion-title {
 		width: 85%;
 	}
-	/* end of details 1 */
+	/* end of WIĘCEJ 1 */
 
 
-	/* Details 2 */
+	/* WIĘCEJ 2 */
 	.tabs {
 		height: 36.125rem;
 	}
@@ -2182,7 +2182,7 @@ a:hover.back-to-top {
 	.tabs .nav-tabs {
 		justify-content: flex-start;
 	}
-	/* end of details 2 */
+	/* end of WIĘCEJ 2 */
 
 
 	/* Call Me */
@@ -2322,15 +2322,15 @@ a:hover.back-to-top {
 	/* end of services */
 
 
-	/* Details 1 */
+	/* WIĘCEJ 1 */
 	.accordion .accordion-container {
 		max-width: 28rem;
 		margin-left: 5rem;
 	}
-	/* end of details 1 */
+	/* end of WIĘCEJ 1 */
 
 
-	/* Details 2 */
+	/* WIĘCEJ 2 */
 	.tabs .tabs-container {
 		max-width: 28rem;
 		margin-right: 5rem;
@@ -2340,7 +2340,7 @@ a:hover.back-to-top {
 	.tabs #tab-2 .media-wrapper.first {
 		margin-right: 2rem;
 	}
-	/* end of details 2 */
+	/* end of WIĘCEJ 2 */
 
 
 	/* Call Me */
