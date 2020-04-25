@@ -829,7 +829,7 @@ input[type='checkbox'] {
 /* Hover Animation */
 .basic-1 .image-container {
 	overflow: hidden;
-	border-radius: 0.25rem;
+	border-radius: 1rem;
 }
 
 .basic-1 .image-container img {
@@ -839,9 +839,9 @@ input[type='checkbox'] {
 }
 
 .basic-1 .image-container:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
+	-moz-transform: scale(1.10);
+	-webkit-transform: scale(1.10);
+	transform: scale(1.10);
 } 
 /* end of hover animation */
 
