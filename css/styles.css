@@ -53,7 +53,7 @@ html {
 }
 
 body, p {
-	color: #fff; 
+	color: #808080; 
 	font: 400 1rem/1.5625rem "Open Sans", sans-serif;
 }
 
@@ -2457,6 +2457,17 @@ a:hover.back-to-top {
 
 
 /* that's mine probably won't work */
+
+
+
+#more {display: none;}
+
+
+
+
+
+
+
 .row-custom {
   display: flex;
   flex-wrap: wrap;
